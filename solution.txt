@@ -4,3 +4,9 @@ Step 1: Lyon
 step 3: 48.0628827,-0.7584035
 
 step 4: 45.0341839,3.0914073
+
+step 5: trouver avec exiftool
+-Norvège
+-Iphone 13 pro
+-GPS Position: 67 deg 9' 19.75" N, 15 deg 58' 53.20" E
+-Create Date: 2022:06:12 15:32:10
