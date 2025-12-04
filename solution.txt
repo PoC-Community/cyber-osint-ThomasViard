@@ -1,2 +1,4 @@
 Geoint:
 Step 1: Lyon
+
+step 3: 48.0628827,-0.7584035
