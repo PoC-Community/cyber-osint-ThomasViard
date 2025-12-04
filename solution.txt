@@ -12,3 +12,8 @@ step 5: trouver avec exiftool
 -Iphone 13 pro
 -GPS Position: 67 deg 9' 19.75" N, 15 deg 58' 53.20" E
 -Create Date: 2022:06:12 15:32:10
+
+Osint:
+step 1: Marty Makefile
+
+step 2: https://replit.com/@u6259518657
